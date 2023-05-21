@@ -1,0 +1,22 @@
+body {
+    background-color: #9b6666;
+    color: darkblue;
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
+
+button {
+    border: black solid;
+    background-color: aqua;
+    margin-bottom: 15px;
+}
+
+p {
+    
+    color: whitesmoke;
+    font-size: x-large;
+    background-color: rgb(161, 45, 45);
+    border: 2px solid rgb(4, 4, 158);
+}
+
